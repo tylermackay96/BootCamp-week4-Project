@@ -1,0 +1,79 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(0, 140, 255), rgb(0, 255, 128))
+}
+#headers {
+    border-style: inset;
+    border-color: rgb(175, 248, 3);
+    box-shadow: 5px;
+    margin: auto;
+  width: 90%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+a:hover {
+        background-color: rgb(151, 118, 243);
+      }
+      nav ul {
+        display: flex;
+        flex-direction: row;
+        background-color: aquamarine;
+        justify-content:space-evenly;
+        box-shadow: 5px;
+    
+                
+      }
+
+      #image1 {
+display: flex;
+justify-content: center;
+flex-direction: row;
+height: 50%;
+width: 100%;
+margin-bottom: 5px;
+}
+#image2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 5px;
+}
+#image3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#funfacts{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
+
+footer {
+    border-style: outset;
+    border-color: brown;
+    
+}
+/*.expPge {
+    
+}
+.porBod {
+
+} */
+.hobbies :hover {
+    background-color: rgb(151, 118, 243);
+}
+.hobbies {
+    display: flex;
+        flex-direction: column;
+        justify-content:space-evenly;
+        box-shadow: 5px;
+}
