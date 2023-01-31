@@ -9,12 +9,13 @@ p {
   
 #headers {
     border-style: inset;
-    border-color: rgb(175, 248, 3);
+    border-color: aquamarine;
     box-shadow: 5px;
     margin: auto;
   width: 90%;
   padding: 10px;
   text-align: center;
+  font-family: 'Open Sans', Arial;
 }
 
 
@@ -54,6 +55,7 @@ margin-bottom: 5px;
     align-items: center;
     width: 100%;
     margin-bottom: 5px;
+    height: 30vh;
 }
 
 #funfacts{
@@ -67,7 +69,7 @@ margin-bottom: 5px;
 
 footer {
     border-style: outset;
-    border-color: brown;
+    border-color: aquamarine;
     font-family: 'Courier New', Courier, monospace;
     
 }
