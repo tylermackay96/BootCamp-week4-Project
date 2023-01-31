@@ -1,6 +1,12 @@
 body {
-    background-image: linear-gradient(to bottom right, rgb(0, 140, 255), rgb(0, 255, 128))
+    background-image: linear-gradient(to bottom right, rgb(0, 140, 255), rgb(0, 255, 128)) 
 }
+
+p {
+        font-family: 'Open Sans', Arial; 
+        font-weight: 100;  
+}
+  
 #headers {
     border-style: inset;
     border-color: rgb(175, 248, 3);
@@ -20,6 +26,8 @@ a:hover {
         flex-direction: row;
         background-color: aquamarine;
         justify-content:space-evenly;
+        align-items: center;
+        padding: 0;
         box-shadow: 5px;
     
                 
@@ -60,6 +68,7 @@ margin-bottom: 5px;
 footer {
     border-style: outset;
     border-color: brown;
+    font-family: 'Courier New', Courier, monospace;
     
 }
 /*.expPge {
@@ -77,3 +86,6 @@ footer {
         justify-content:space-evenly;
         box-shadow: 5px;
 }
+
+
+  
