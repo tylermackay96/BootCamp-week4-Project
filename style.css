@@ -20,6 +20,17 @@ p {
   font-family: 'Open Sans', Arial;
   margin: 0 auto;
 }
+#headers1 {
+    border-style: inset;
+    border-color: aquamarine;
+    box-shadow: 5px;
+    width: 95%;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Open Sans', Arial;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
 /*Placement for the hover effects on the nav and links*/
 a:hover {
         background-color: rgb(151, 118, 243);
