@@ -57,6 +57,10 @@ margin-bottom: 5px;
     margin-bottom: 5px;
     height: 30vh;
 }
+div2 {
+ height: 50px;
+ width: 50px;
+}
 
 #funfacts{
     display: flex;
